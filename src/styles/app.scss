@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: #E72F37;
+}
+.App {
+    transition: all 0.5s ease;
+}
+.library-active {
+    margin-left: 30%;
+}
+
+h1 {
+    font-size: 1rem;
+}
+h2 {
+    color: #FFFFFF;
+}
+h3,
+h4 {
+    font-weight: 400;
+}
+
+p {
+    color: #FFFFFF;
+}
+
+@import "./song";
+@import "./player";
+@import "./library";
+@import "./nav";
