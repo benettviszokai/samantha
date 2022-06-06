@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/samantha/static/css/main.1db7c835.css",
+    "main.js": "/samantha/static/js/main.40c87633.js",
+    "index.html": "/samantha/index.html",
+    "main.1db7c835.css.map": "/samantha/static/css/main.1db7c835.css.map",
+    "main.40c87633.js.map": "/samantha/static/js/main.40c87633.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1db7c835.css",
+    "static/js/main.40c87633.js"
+  ]
+}
